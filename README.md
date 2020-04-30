@@ -1,2 +1,2 @@
-#trial01
-this is trial01
+# SAMACHAR
+ This is a just a trial
